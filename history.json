@@ -1,8 +1,12 @@
 {
     "history": [
         {
+            "date": "2022-10-5",
+            "message": "https://ja.reactjs.org/docs/lists-and-keys.htmlまで読んだ"
+        },
+        {
             "date": "2022-10-4",
-            "message": "https://ja.reactjs.org/docs/state-and-lifecycle.htmlまで読む"
+            "message": "https://ja.reactjs.org/docs/state-and-lifecycle.htmlまで読んだ"
         }
     ]
 }
